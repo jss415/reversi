@@ -1,6 +1,6 @@
 # Reversi — AI vs AI
 
-<video src="demo.mp4" controls muted loop playsinline width="800"></video>
+<video src="https://raw.githubusercontent.com/jss415/reversi/main/demo.mp4" controls muted loop playsinline width="800"></video>
 
 Terminal Othello where two alpha-beta minimax agents play each other live. Built from scratch in Python — no third-party dependencies.
 
